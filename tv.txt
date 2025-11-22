@@ -1,0 +1,226 @@
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+momo購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+momo購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+運通財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+DW News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+Malaimurasu Tv 24X7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+Asianet News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+華視戲劇頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+中天亞洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+Al Jazeera Arabic,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+JapaNews24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+THE K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+東森購物台CH60,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+東森購物台CH46,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+LIVE NOW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+Haberturk TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+鳳凰衛視資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+新唐人LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+ABC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+華視綜藝頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+Astro AWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+中天電視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+Tokyo Walk,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+大愛一臺HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+三立新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+GB News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+中視經典綜藝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+Sky News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+India Today,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+Euronews English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+FRANCE 24 English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+NBC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+News18 India,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+寰宇新聞台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+鳳凰衛視資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+MediaoneTV Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+NewsTamil24x7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+大愛二臺HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+東森購物台CH47,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+中天2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+Malayalam News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+Arirang TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+CNA LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+國會頻道１,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+立法院會議,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+123 GO! Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+Al Jazeera English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+Muse木棉花-闔家歡,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+KBS News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+ABCテレビニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+小猪佩奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+Talking Tom,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+TalkingFriendsTVMini,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+Dave and Ava,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+Tayo the Little Bus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+Disney Junio,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+CRUX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
+TIMES NOW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+GTV DRAMA 八大劇樂部,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+民視戲劇館,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+Lofi Girl,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
+TaiwanPlus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+earthTV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
+SBS Running Man,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
+飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+TVBS選新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
+Entertainment - Mediacorp,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
+寰宇新聞財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+LiveNOW from FOX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
+東森購物台CH34,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8
+InquizeX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV88.m3u8
+8world,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV89.m3u8
+倪珍24小時播新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+Bloomberg News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+中視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+Bloomberg News Asia,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+民視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+CNA亞洲新聞 Singapore,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+CNA亞洲新聞 International,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+CNA亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+台視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+ABC NEWS LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+France 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+DW 德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+GB News UK,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+INDIA TODAY,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+NBC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+民視 HD,http://220.134.196.147:9574/ch49.m3u8
+NEWS18,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+中視 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+半島電視台,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+華視-天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+華視綜合娛樂,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+幸福空間居家台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+鬥魚電影-IMAX影廳,http://epg.112114.xyz/douyu/4332
+鬥魚電影-午夜故事,http://epg.112114.xyz/douyu/8722254
+鬥魚電影-可樂電影,http://epg.112114.xyz/douyu/20415
+鬥魚電影-冰冰小劇場,http://epg.112114.xyz/douyu/74374
+鬥魚電影-貝貝影院,http://epg.112114.xyz/douyu/431460
+鬥魚電影-林正英 1,http://epg.112114.xyz/douyu/7356023
+鬥魚電影-邵氏影院,http://epg.112114.xyz/douyu/4246519
+鬥魚電影-恐怖故事,http://epg.112114.xyz/douyu/2337939
+鬥魚電影-特輯影院,http://epg.112114.xyz/douyu/3637778
+鬥魚電影-神樂影片 1,http://epg.112114.xyz/douyu/122402
+鬥魚電影-淩兒影院,http://epg.112114.xyz/douyu/1377142
+鬥魚電影-粤语電影,http://epg.112114.xyz/douyu/1226741
+鬥魚電影-粵語綜藝,http://epg.112114.xyz/douyu/7919720
+鬥魚電影-歐美大片,http://epg.112114.xyz/douyu/2793084
+鬥魚電影-經典神劇,http://epg.112114.xyz/douyu/3700024
+鬥魚電影-螞蚱影院,http://epg.112114.xyz/douyu/6079455
+鬥魚電影02,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+鬥魚電影-神樂影片 2,http://epg.112114.xyz/douyu/85894
+鬥魚電影05,http://diyp.112114.xyz/douyu/747764
+鬥魚電影08,http://epg.112114.xyz/douyu/8475821
+鬥魚電影03,http://epg.112114.xyz/douyu/3870925
+鬥魚電影10,http://epg.112114.xyz/douyu/8799435
+鬥魚電影11,http://epg.112114.xyz/douyu/7655471
+鬥魚電影13,http://epg.112114.xyz/douyu/5067952
+鬥魚電影15,http://epg.112114.xyz/douyu/8945323
+鬥魚電影14,http://epg.112114.xyz/douyu/7476264
+鬥魚電影16,http://diyp.112114.xyz/douyu/2436390
+鬥魚影評-小黑講電影,http://epg.112114.xyz/douyu/8867878
+鬥魚影評-小滔講電影,http://epg.112114.xyz/douyu/8415464
+鬥魚影評-火龍果說電影,http://epg.112114.xyz/douyu/9559158
+鬥魚影評-牛叔-N分鐘看大片,http://epg.112114.xyz/douyu/2758565
+鬥魚影評-史君說劇,http://epg.112114.xyz/douyu/297689
+鬥魚影評-挖溝連,http://epg.112114.xyz/douyu/8413092
+鬥魚影評-宇哥講電影,http://epg.112114.xyz/douyu/8651489
+鬥魚影評-科幻Fans布瑪,http://epg.112114.xyz/douyu/3508304
+鬥魚影評-誰語說電影,http://epg.112114.xyz/douyu/8705754
+鬥魚影評01,http://epg.112114.xyz/douyu/4258555
+鬥魚影評03,http://epg.112114.xyz/douyu/9527700
+鬥魚影評06,http://epg.112114.xyz/douyu/8986636
+鬥魚影評08,http://epg.112114.xyz/douyu/8014467
+鬥魚影評07,http://epg.112114.xyz/douyu/9837291
+鬥魚影評-騎毛驢的八戒,http://epg.112114.xyz/douyu/1979257
+鬥魚影評09,http://epg.112114.xyz/douyu/562225
+Red Bull TV HD,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+鬥魚紀錄片,http://epg.112114.xyz/douyu/3485629
+Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+Nature,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+小豬佩奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+動漫輪播-草帽丶海賊團的直播間,http://epg.112114.xyz/douyu/997925
+動漫輪播-童年動漫點播,http://epg.112114.xyz/douyu/7256376
+親子動畫02,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+親子動畫01,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+哆啦A夢,http://epg.112114.xyz/douyu/9445279
+海綿寶寶,http://epg.112114.xyz/douyu/1569773
+假面騎士,http://epg.112114.xyz/douyu/1218414
+倒楣熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+開心錘錘,http://epg.112114.xyz/douyu/9018297
+反轉星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+鬥魚音樂-秋月剪水,http://epg.112114.xyz/douyu/9588891
+鐵頭與橘子,http://epg.112114.xyz/douyu/9450942
+鬥魚音樂華語點歌台,http://epg.112114.xyz/douyu/3186217
+鬥魚音樂,http://epg.112114.xyz/douyu/7537296
+Euro Indie Music Chart TV,http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+THE K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+Retro,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+Radio,http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+Salto Brasa Music,https://salto-streams.nl/hls/sotv1_high.m3u8
+V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
+V2BEAT Music,http://de1se01.v2beat.live/chunks.m3u8
+QVC Japan,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+Shop Channel,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+Shop Channel,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+Shop Channel,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
+GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
+FOX NEWS,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+名偵探柯南,http://epg.112114.xyz/douyu/1783144
+名偵探柯南,http://epg.112114.xyz/douyu/6484910
+名偵探柯南,http://epg.112114.xyz/douyu/7050342
+動漫輪播-搞笑、校園、奇幻、后宮,http://epg.112114.xyz/douyu/9429545
+名偵探柯南,http://epg.112114.xyz/douyu/7620081
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk

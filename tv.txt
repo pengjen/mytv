@@ -1,24 +1,16 @@
 台灣,#genre#
-TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS亞洲[1920*1080][1920*1080][1920*1080][1920*1080][1920*1080],http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-中視 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-中視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-幸福空間居家台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 東森新聞美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-東森美洲[720*528][720*528][720*528][720*528][720*528],http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 民視 HD,http://220.134.196.147:9574/ch49.m3u8
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
@@ -26,12 +18,10 @@ TVBS亞洲[1920*1080][1920*1080][1920*1080][1920*1080][1920*1080],http://38.64.7
 民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民視新聞臺,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8?blog.ntnas.top
 番薯臺,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-臺視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
-華視-天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-華視綜合娛樂,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+
+
 歐美,#genre#
 ABC NEWS LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 Bloomberg News Asia,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
@@ -56,25 +46,23 @@ Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_16
 Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 Retro,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 半島電視台,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+
 其他,#genre#
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 Nature,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-QVC Japan,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 Radio,http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 Salto Brasa Music,https://salto-streams.nl/hls/sotv1_high.m3u8
-THE K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 V2BEAT Music,http://de1se01.v2beat.live/chunks.m3u8
 V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
 中國村莊,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
-亞洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 地理中國,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
 地理野生,http://iptv.prosto.tv:7000/ch83/video.m3u8
-好訊息綜合臺,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-河南衛視4k超,http://218.29.135.2:4000/udp/225.1.4.254:1300
 法國時尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法國時尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 自然傳奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
@@ -82,25 +70,13 @@ V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
 飛碟之謎01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 飛碟之謎02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
 動漫,#genre#
-GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
-GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 倒楣熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 假面騎士,http://epg.112114.xyz/douyu/1218414
 動漫輪播-搞笑、校園、奇幻、后宮,http://epg.112114.xyz/douyu/9429545
 動漫輪播-童年動漫點播,http://epg.112114.xyz/douyu/7256376
 動漫輪播-草帽丶海賊團的直播間,http://epg.112114.xyz/douyu/997925
 反轉星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-名偵探柯南,http://epg.112114.xyz/douyu/1783144
-名偵探柯南,http://epg.112114.xyz/douyu/6484910
-名偵探柯南,http://epg.112114.xyz/douyu/7050342
-名偵探柯南,http://epg.112114.xyz/douyu/7620081
-哆啦A夢,http://epg.112114.xyz/douyu/9445279
-小豬佩奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 海綿寶寶,http://epg.112114.xyz/douyu/1569773
-紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-親子動畫01,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-親子動畫02,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 鐵頭與橘子,http://epg.112114.xyz/douyu/9450942
 開心錘錘,http://epg.112114.xyz/douyu/9018297
 鬥魚,#genre#
